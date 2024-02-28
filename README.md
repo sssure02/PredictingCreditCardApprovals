@@ -37,3 +37,5 @@ In the future, I would like to train models such as Random Forest, KNN, and XGBo
 ## Skills used:
 * Python Libraries: Pandas, Numpy, Scikit-Learn
 * Statistics: Logistic Regression
+
+#### The project was completed using DataCamp resources.
