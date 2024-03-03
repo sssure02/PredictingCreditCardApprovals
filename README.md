@@ -6,7 +6,7 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 ## About the dataset:
 The dataset contains the most important features of a credit card application. They include <code>Gender</code>, <code>Age</code>, <code>Debt</code>, <code>Married</code>, <code>BankCustomer</code>, <code>EducationLevel</code>, <code>Ethnicity</code>, <code>YearsEmployed</code>, <code>PriorDefault</code>, <code>Employed</code>, <code>CreditScore</code>, <code>DriversLicense</code>, <code>Citizen</code>, <code>ZipCode</code>, <code>Income</code> and finally the <code>ApprovalStatus</code>. 
 
-## Key takeaway: 
+## Key takeaways: 
 Tackled some of the most widely-known preprocessing steps, such as scaling, label encoding, and missing value imputation. We finished with a machine learning model to predict if a person's application for a credit card would get approved or not given some information about that person. 
 
 #### **The best model turned out to yield an accuracy score of 85%, and the respective best parameters are <code>{'max_iter': 100, 'tol': 0.01}</code>**
